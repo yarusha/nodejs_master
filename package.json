@@ -1,0 +1,9 @@
+{
+  "name": "homework_01",
+  "version": "1.0.0",
+  "description": "Homework number 1",
+  "main": "index.js",
+  "repository": "https://github.com/yarusha/nodejs_master.git",
+  "author": "yarusha <info@yarusha.net>",
+  "license": "MIT"
+}
